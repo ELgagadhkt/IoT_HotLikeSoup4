@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "559060017759",
+    "firebase_url": "https://iot---hot-like-soup-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "iot---hot-like-soup",
+    "storage_bucket": "iot---hot-like-soup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559060017759:android:4175a320b1e900a07131ea",
+        "android_client_info": {
+          "package_name": "com.example.iot_hotlikesoup3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbLsTOznjH2bG8hmVTXmVrwkNcUw5tu6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559060017759:android:7dd17186b9b0d2347131ea",
+        "android_client_info": {
+          "package_name": "com.example.iot_hotlikesoup4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbLsTOznjH2bG8hmVTXmVrwkNcUw5tu6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
